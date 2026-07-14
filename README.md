@@ -1,5 +1,5 @@
 # brain-tumor-mri-classifier
-# 🧠 Brain Tumor MRI Classifier
+
 
 A convolutional neural network that classifies brain MRI scans into four categories: **glioma**, **meningioma**, **pituitary tumor**, or **no tumor**. Includes a Streamlit web app for interactive predictions.
 
